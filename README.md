@@ -31,13 +31,26 @@ IDEIA 2
 
 ### 3.MINI-MUNDO Novo<br>
 
-Descrever o mini-mundo! (Não deve ser maior do que 30 linhas) <br>
-Entrevista com o usuário e identificação dos requisitos.<br>
-Descrição textual das regras de negócio definidas como um  subconjunto do mundo real 
-cujos elementos são propriedades que desejamos incluir, processar, armazenar, 
-gerenciar, atualizar, e que descrevem a proposta/solução a ser desenvolvida.
+Quando aberto, o aplicativo será iniciado na aba de Login, onde o usuário poderá logar com seu nome de usuário e senha, ou clicar no botão para cadastro. Caso faça, será redirecionado para outra página para inserir suas informações, como nome, cpf, idade, sexo, etc.<br/>
+<b>(1)</b> Assim, o usuário, já logado, será redirecionado par aa página inicial, onde serão exibidos perfis de médicos e hospitais com as melhores recomendações, logo abaixo daqueles que pagaram para promover seus perfis. O usuário tem acesso a um menu na parte de baixo, onde pode acessar as páginas:
+<ol>
+ <li>Página Inicial</li>
+ <li>Pronto Socorro </li>
+ <li>Consultas</li>
+ <li>Perfil</li>
+</ol>
 
-> O sistema proposto para a "Devcom Projetos conterá as informacões aqui detalhadas. Dos Projetos serão armazenados o número, nome e cidade. Dos Departamentos serão armazenados o número e nome. O cliente destacou que cada projeto pode ter vários departamentos auxiliando no seu desenvolvimento, e cada departamento pode estar envolvido em vários projetos. Os dados relativos aos empregados que serão armazenados são: rg, nome, cpf, salário, data inicial do salario e supervisor de cada empregado. É importante destacar que cada empregado pode ser supervisionado por outro empregado, e obrigatoriamente deve estar alocado a um único departamento, mas pode gerenciar vários departamentos ou não gerenciar nenhum. Um empregado também pode participar de vários projetos, caso seja necessário, mas não precisa obrigatoriamente estar alocado em algum projeto. Com relação aos dependentes serão armazenadas as informações de nome do dependente, data de nascimento, sexo e grau de parentesco. Cada empregado pode ter vários dependentes, mas um dependente esta associado apenas a um único empregado. Com relação ao histórico de salário devemos armazenar as informações de valor do salário, data de início do salário no período e data final do salário no período. É importante lembrar que cada funcionario pode ter diversos eventos de histórico de salário associados a ele visto que este dado pode ser alterado várias vezes. 
+<b>(2)</b> Na página do pronto socorro, o usuário poderá escolher a área, descrever os sintomas e entrar na fila do hospital que oferece a opção escolhida. Assim, será redirecionado para outra página, com a confirmação do PS, onde será exibido sua posição na fila.
+<b>(3)</b> Na página de consultas existe 4 opções:
+	 3.1 - Suas consultas
+	 3.2 - Favoritos
+	 3.3 - Marcar
+	 3.4 - Tratamentos
+(3.1) Na página de Suas consultas, será exibido as cosultas futuras, já marcadas pelo usuário.
+(3.2) Na página Favoritos, será exibido os perfis de médicos e hospitais marcados como favoritos pelo usuário.
+(3.3) Na página Marcar, o usuário poderá escolher uma especialidade, e o raio de atendimento, assim, aparecerá os médicos e hospitais da área que atendem a especialidade, o usuário poderá escolher um e marcar uma consulta.
+(3.4) Na página de Tratamentos, os médicos, após a realização das consultas, poderão enviar ao paciente, pelo aplicativo, a medicação a ser tomada, e por quanto tempo.
+(4) No perfil, o médico, hospital, ou usuário poderá ver suas informações, editá-las, mexer nas configurações do aplicativo, além da aba "Fale Conosco" para se comunicar com os adminstradores do aplicativo.
 
 
 ### 4.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
