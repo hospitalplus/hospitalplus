@@ -26,7 +26,6 @@ No caso de PS, o usuário pode colocar todas as suas informações e
 sintomas pelo sistema e quando chegar lá só precisa aguardar o
 atendimento.
 
-IDEIA 2
  
 
 ### 3.MINI-MUNDO Novo<br>
@@ -46,10 +45,10 @@ Quando aberto, o aplicativo será iniciado na aba de Login, onde o usuário pode
 	 3.2 - Favoritos<br/>
 	 3.3 - Marcar<br/>
 	 3.4 - Tratamentos<br/>
-(3.1) Na página de Suas consultas, será exibido as cosultas futuras, já marcadas pelo usuário.
-(3.2) Na página Favoritos, será exibido os perfis de médicos e hospitais marcados como favoritos pelo usuário.
-(3.3) Na página Marcar, o usuário poderá escolher uma especialidade, e o raio de atendimento, assim, aparecerá os médicos e hospitais da área que atendem a especialidade, o usuário poderá escolher um e marcar uma consulta.
-(3.4) Na página de Tratamentos, os médicos, após a realização das consultas, poderão enviar ao paciente, pelo aplicativo, a medicação a ser tomada, e por quanto tempo.
+(3.1) Na página de Suas consultas, será exibido as cosultas futuras, já marcadas pelo usuário.<br/>
+(3.2) Na página Favoritos, será exibido os perfis de médicos e hospitais marcados como favoritos pelo usuário.<br/>
+(3.3) Na página Marcar, o usuário poderá escolher uma especialidade, e o raio de atendimento, assim, aparecerá os médicos e hospitais da área que atendem a especialidade, o usuário poderá escolher um e marcar uma consulta.<br/>
+(3.4) Na página de Tratamentos, os médicos, após a realização das consultas, poderão enviar ao paciente, pelo aplicativo, a medicação a ser tomada, e por quanto tempo.<br/>
 (4) No perfil, o médico, hospital, ou usuário poderá ver suas informações, editá-las, mexer nas configurações do aplicativo, além da aba "Fale Conosco" para se comunicar com os adminstradores do aplicativo.
 
 
