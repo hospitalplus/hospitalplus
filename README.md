@@ -41,11 +41,11 @@ Quando aberto, o aplicativo será iniciado na aba de Login, onde o usuário pode
 </ol>
 
 <b>(2)</b> Na página do pronto socorro, o usuário poderá escolher a área, descrever os sintomas e entrar na fila do hospital que oferece a opção escolhida. Assim, será redirecionado para outra página, com a confirmação do PS, onde será exibido sua posição na fila.
-<b>(3)</b> Na página de consultas existe 4 opções:
-	 3.1 - Suas consultas
-	 3.2 - Favoritos
-	 3.3 - Marcar
-	 3.4 - Tratamentos
+<b>(3)</b> Na página de consultas existe 4 opções:<br/>
+	 3.1 - Suas consultas<br/>
+	 3.2 - Favoritos<br/>
+	 3.3 - Marcar<br/>
+	 3.4 - Tratamentos<br/>
 (3.1) Na página de Suas consultas, será exibido as cosultas futuras, já marcadas pelo usuário.
 (3.2) Na página Favoritos, será exibido os perfis de médicos e hospitais marcados como favoritos pelo usuário.
 (3.3) Na página Marcar, o usuário poderá escolher uma especialidade, e o raio de atendimento, assim, aparecerá os médicos e hospitais da área que atendem a especialidade, o usuário poderá escolher um e marcar uma consulta.
