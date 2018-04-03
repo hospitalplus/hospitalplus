@@ -49,7 +49,7 @@ Pacientes serão atendidos por médicos, como médicos também serão atendidos 
 <b>(2.2)</b> Na página Favoritos, será exibido os perfis de médicos e hospitais marcados como favoritos pelo usuário.<br/>
 <b>(2.3)</b> Na página Marcar, o usuário poderá escolher uma especialidade, e o raio de atendimento, assim, aparecerá os médicos e hospitais da área que atendem a especialidade, o usuário poderá escolher um e marcar uma consulta.<br/>
 <b>(2.4)</b> Na página de Tratamentos, os médicos, após a realização das consultas, poderão enviar ao paciente, pelo aplicativo, a medicação a ser tomada, e por quanto tempo.<br/>
-<b>(3)</b> No perfil, o médico, hospital, ou usuário poderá ver suas informações, editá-las, mexer nas configurações do aplicativo, além da aba "Fale Conosco" para se comunicar com os administradores do aplicativo.<br/>
+<b>(3)</b> No perfil, o médico, ou paciente poderá ver suas informações, editá-las, mexer nas configurações do aplicativo, além da aba "Fale Conosco" para se comunicar com os administradores do aplicativo.<br/>
 
 ### 4.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 Neste ponto a codificação não e necessária, somente as ideias de telas devem ser desenvolvidas. O princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas e/ou descartadas <br>
