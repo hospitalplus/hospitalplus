@@ -30,30 +30,26 @@ atendimento.
 
 ### 3.MINI-MUNDO Novo<br>
 
-Quando aberto, o aplicativo será iniciado na aba de Login, onde o usuário poderá logar com seu nome de usuário e senha, ou clicar no botão para cadastro. Caso faça, será redirecionado para outra página para inserir suas informações, como nome, cpf, idade, sexo, etc.<br/>
-<b>(1)</b> Assim, o usuário, já logado, será redirecionado par aa página inicial, onde serão exibidos perfis de médicos e hospitais com as melhores recomendações, logo abaixo daqueles que pagaram para promover seus perfis. O usuário tem acesso a um menu na parte de baixo, onde pode acessar as páginas:
+Quando aberto, o aplicativo será iniciado na aba de Login, onde o usuário poderá logar com seu nome de usuário e senha, ou clicar no botão para cadastro. Caso faça, será redirecionado para outra página para inserir suas informações. Dos Pacientes serão armazenados Nome, Sobrenome, Data de Nascimento, Sexo, Email, Senha, CPF, Convênios e Telefone. Dos Médicos serão armazenados Nome, Sobrenome, Data de Nascimento, Sexo, Email, Senha, CPF, Convênios, Horários e local de atendimento, Registro Profissional e Telefone.
+Pacientes serão atendidos por médicos, como médicos também serão atendidos por médicos. Pacientes poderão marcar consultas com Médicos. Pacientes poderão adicionar Médicos a seus favoritos.<br/>
+<b>(1)</b> O usuário, já logado, será redirecionado para a página inicial, onde serão exibidos perfis de médicos e hospitais com as melhores recomendações, logo abaixo daqueles que pagaram para promover seus perfis. O usuário tem acesso a um menu na parte de baixo, onde pode acessar as páginas:
 <ol>
- <li>Página Inicial</li>
- <li>Pronto Socorro </li>
- <li>Consultas</li>
- <li>Perfil</li>
+	<li>Página Inicial</li>
+<li>Consultas</li>
+	<li>Perfil</li>
 </ol>
-
-<b>(2)</b> Na página do pronto socorro, o usuário poderá escolher a área, descrever os sintomas e entrar na fila do hospital que oferece a opção escolhida. Assim, será redirecionado para outra página, com a confirmação do PS, onde será exibido sua posição na fila.
-<b>(3)</b> Na página de consultas existe 4 opções:<br/>
+ <b>(2)</b> Na página de consultas existe 4 opções:
 <ol>
 	<li>Suas consultas</li>
 	<li>Favoritos</li>
 	<li>Marcar</li>
 	<li>Tratamentos</li>
-</ol>
-
-(3.1) Na página de Suas consultas, será exibido as cosultas futuras, já marcadas pelo usuário.<br/>
-(3.2) Na página Favoritos, será exibido os perfis de médicos e hospitais marcados como favoritos pelo usuário.<br/>
-(3.3) Na página Marcar, o usuário poderá escolher uma especialidade, e o raio de atendimento, assim, aparecerá os médicos e hospitais da área que atendem a especialidade, o usuário poderá escolher um e marcar uma consulta.<br/>
-(3.4) Na página de Tratamentos, os médicos, após a realização das consultas, poderão enviar ao paciente, pelo aplicativo, a medicação a ser tomada, e por quanto tempo.<br/>
-(4) No perfil, o médico, hospital, ou usuário poderá ver suas informações, editá-las, mexer nas configurações do aplicativo, além da aba "Fale Conosco" para se comunicar com os adminstradores do aplicativo.
-
+<ol>
+<b>(2.1)</b> Na página de Suas consultas, será exibido as consultas futuras, já marcadas pelo usuário.<br/>
+<b>(2.2)</b> Na página Favoritos, será exibido os perfis de médicos e hospitais marcados como favoritos pelo usuário.<br/>
+<b>(2.3)</b> Na página Marcar, o usuário poderá escolher uma especialidade, e o raio de atendimento, assim, aparecerá os médicos e hospitais da área que atendem a especialidade, o usuário poderá escolher um e marcar uma consulta.<br/>
+<b>(2.4)</b> Na página de Tratamentos, os médicos, após a realização das consultas, poderão enviar ao paciente, pelo aplicativo, a medicação a ser tomada, e por quanto tempo.<br/>
+<b>(3)</b> No perfil, o médico, hospital, ou usuário poderá ver suas informações, editá-las, mexer nas configurações do aplicativo, além da aba "Fale Conosco" para se comunicar com os administradores do aplicativo.<br/>
 
 ### 4.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 Neste ponto a codificação não e necessária, somente as ideias de telas devem ser desenvolvidas. O princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas e/ou descartadas <br>
