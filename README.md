@@ -44,7 +44,7 @@ Pacientes serão atendidos por médicos, como médicos também serão atendidos 
 	<li>Favoritos</li>
 	<li>Marcar</li>
 	<li>Tratamentos</li>
-<ol>
+</ol>
 <b>(2.1)</b> Na página de Suas consultas, será exibido as consultas futuras, já marcadas pelo usuário.<br/>
 <b>(2.2)</b> Na página Favoritos, será exibido os perfis de médicos e hospitais marcados como favoritos pelo usuário.<br/>
 <b>(2.3)</b> Na página Marcar, o usuário poderá escolher uma especialidade, e o raio de atendimento, assim, aparecerá os médicos e hospitais da área que atendem a especialidade, o usuário poderá escolher um e marcar uma consulta.<br/>
