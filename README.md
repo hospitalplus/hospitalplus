@@ -7,7 +7,7 @@ Hospital+: hospitalplus2018@gmail.com<br>
 Integrantes do grupo<br>
 João Antônio Sobrinho Covre: joaoantonioscovre@gmail.com<br>
 Matheus Kuster Rosa: matheuskuster@hotmail.com<br>
-Sibely Smiderle ALves: sibelyalves7@gmail.com<br>
+Sibely Smiderle Alves: sibelyalves7@gmail.com<br>
 
 ### 2.INTRODUÇÃO E MOTIVAÇAO<br>
 Este documento contém a especificação do projeto do banco de dados <nome do projeto> 
