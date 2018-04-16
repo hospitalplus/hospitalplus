@@ -56,8 +56,8 @@ Neste ponto a codificação não e necessária, somente as ideias de telas devem
 
 Feito no Proto.io: https://proto.io/<br>
 
-![Alt text](https://github.com/discipbd1/trab01/blob/master/balsamiq.png?raw=true "Title")
-![Arquivo PDF do Protótipo Balsamiq feito para Empresa Devcom](hospitalplus/arquivos/protoio-Hospital+.pdf "Hospital+")
+![Alt text](hospitalplus/imagens/letreiro.png "Title")
+![Arquivo PDF do Protótipo Proto.io feito para Hospital+](https://github.com/hospitalplus/hospitalplus/blob/master/arquivos/protoio-Hospital+.pdf "Hospital+")
 
 
 #### 4.1 TABELA DE DADOS DO SISTEMA:
