@@ -56,7 +56,7 @@ Neste ponto a codificação não e necessária, somente as ideias de telas devem
 
 Feito no Proto.io: https://proto.io/<br>
 
-![Alt text](hospitalplus/imagens/letreiro.png "Title")
+![Alt text](https://github.com/hospitalplus/hospitalplus/blob/master/imagens/letreiro.png "Title")
 ![Arquivo PDF do Protótipo Proto.io feito para Hospital+](https://github.com/hospitalplus/hospitalplus/blob/master/arquivos/protoio-Hospital+.pdf "Hospital+")
 
 
