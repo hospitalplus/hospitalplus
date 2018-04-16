@@ -52,7 +52,7 @@ Pacientes serão atendidos por médicos, como médicos também serão atendidos 
 <b>(4)</b> No perfil, o médico, ou paciente poderá ver suas informações, editá-las, mexer nas configurações do aplicativo, além da aba "Fale Conosco" para se comunicar com os administradores do aplicativo.<br/>
 
 ### 4.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
-Neste ponto a codificação não e necessária, somente as ideias de telas devem ser desenvolvidas. O princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas e/ou descartadas <br>
+o foco deste aplicativo e a portabilidade e uma interface intuitiva para atingir todos os públicos, para melhor representação utilizamso o proto.io para representar em forma de aplicativo a interface de uso de aplicativo<br>
 
 Feito no Proto.io: https://proto.io/<br>
 
