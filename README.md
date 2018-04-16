@@ -35,7 +35,8 @@ Pacientes serão atendidos por médicos, como médicos também serão atendidos 
 <b>(1)</b> O usuário, já logado, será redirecionado para a página inicial, onde serão exibidos perfis de médicos e hospitais com as melhores recomendações, logo abaixo daqueles que pagaram para promover seus perfis. O usuário tem acesso a um menu na parte de baixo, onde pode acessar as páginas:
 <ol>
 	<li>Página Inicial</li>
-<li>Consultas</li>
+	<li>Consultas</li>
+	<li>Tratamentos</li>
 	<li>Perfil</li>
 </ol>
  <b>(2)</b> Na página de consultas existe 4 opções:
@@ -43,7 +44,6 @@ Pacientes serão atendidos por médicos, como médicos também serão atendidos 
 	<li>Suas consultas</li>
 	<li>Favoritos</li>
 	<li>Marcar</li>
-	<li>Tratamentos</li>
 </ol>
 <b>(2.1)</b> Na página de Suas consultas, será exibido as consultas futuras, já marcadas pelo usuário.<br/>
 <b>(2.2)</b> Na página Favoritos, será exibido os perfis de médicos e hospitais marcados como favoritos pelo usuário.<br/>
