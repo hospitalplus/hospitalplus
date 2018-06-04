@@ -65,12 +65,15 @@ Feito no Proto.io: https://proto.io/<br>
     
     
 #### 4.2 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
-    a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes? 
-    b) Crie uma lista com os 10 principais relatórios que poderão ser obtidos por meio do sistema proposto!
+    1) Especialidade de um médico 
+    2) Horario de atendimento de um medico
+    3) Local de atendimento
+    4) Medicos mais bem avaliados
+    5) Remedios utilizados
     
 ### 5.MODELO CONCEITUAL<br>
 
-![Alt text](https://github.com/hospitalplus/hospitalplus/blob/master/imagens/hospitalPlusModelonovo.png)
+![Alt text](https://github.com/hospitalplus/hospitalplus/blob/master/imagens/hospitalPlus.png)
     
 #### 5.1 Validação do Modelo Conceitual
     [Grupo01]: [Nomes dos que participaram na avaliação]
