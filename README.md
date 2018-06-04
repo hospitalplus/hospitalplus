@@ -75,7 +75,7 @@ Feito no Proto.io: https://proto.io/<br>
 #### 5.1 Validação do Modelo Conceitual
     [Grupo01]: [Nomes dos que participaram na avaliação]
     [Grupo02]: [Nomes dos que participaram na avaliação]
-## Marco de Entrega 01 em: (20/04/2018)<br>
+
 #### 5.2 DECISÕES DE PROJETO
     [atributo]: [descrição da decisão]
     
