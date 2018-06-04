@@ -56,7 +56,7 @@ O foco deste aplicativo e a portabilidade e uma interface intuitiva para atingir
 
 Feito no Proto.io: https://proto.io/<br>
 
-(https://github.com/hospitalplus/hospitalplus/blob/master/imagens/letreiro.png "logo")
+![Alt text](https://github.com/hospitalplus/hospitalplus/blob/master/imagens/letreiro.png "logo")
 ![Arquivo PDF do Protótipo Proto.io feito para Hospital+](https://github.com/hospitalplus/hospitalplus/blob/master/arquivos/protoio-Hospital+.pdf "Hospital+")
 
 
