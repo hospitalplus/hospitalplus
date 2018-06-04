@@ -75,7 +75,7 @@ Feito no Proto.io: https://proto.io/<br>
 
 ### 5.MODELO CONCEITUAL<br>
         
-![Alt text](https://github.com/hospitalplus/hospitalplus/blob/master/imagens/hospitalPlusModelo.png")
+![Alt text]("https://github.com/hospitalplus/hospitalplus/blob/master/imagens/hospitalPlusModelo.png")
     
     B) NOTACAO UML (Caso esteja fazendo a disciplina de analise)
     C) QUALIDADE 
