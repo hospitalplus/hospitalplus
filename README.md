@@ -56,12 +56,12 @@ O foco deste aplicativo e a portabilidade e uma interface intuitiva para atingir
 
 Feito no Proto.io: https://proto.io/<br>
 
-![Alt text](https://github.com/hospitalplus/hospitalplus/blob/master/imagens/letreiro.png "logo")
+(https://github.com/hospitalplus/hospitalplus/blob/master/imagens/letreiro.png "logo")
 ![Arquivo PDF do Protótipo Proto.io feito para Hospital+](https://github.com/hospitalplus/hospitalplus/blob/master/arquivos/protoio-Hospital+.pdf "Hospital+")
 
 
 #### 4.1 TABELA DE DADOS DO SISTEMA:
-   ![Alt text](https://github.com/hospitalplus/hospitalplus/blob/master/arquivos/dados.xlsx)
+   ![Tabela de dados do sistema](https://github.com/hospitalplus/hospitalplus/blob/master/arquivos/dados.xlsx)
     
     
 #### 4.2 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
