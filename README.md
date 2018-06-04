@@ -70,7 +70,7 @@ Feito no Proto.io: https://proto.io/<br>
     
 ### 5.MODELO CONCEITUAL<br>
 
-![Alt text](https://github.com/hospitalplus/hospitalplus/blob/master/imagens/hospitalPlusModelo.png)
+![Alt text](https://github.com/hospitalplus/hospitalplus/blob/master/imagens/hospitalPlusModelonovo.png)
     
 #### 5.1 Validação do Modelo Conceitual
     [Grupo01]: [Nomes dos que participaram na avaliação]
