@@ -39,7 +39,7 @@ Pacientes serão atendidos por médicos, como médicos também serão atendidos 
 	<li>Tratamentos</li>
 	<li>Perfil</li>
 </ol>
- <b>(2)</b> Na página de consultas existe 4 opções:
+	<b>(2)</b> Na página de consultas existe 4 opções:
 <ol>
 	<li>Suas consultas</li>
 	<li>Favoritos</li>
@@ -56,34 +56,21 @@ O foco deste aplicativo e a portabilidade e uma interface intuitiva para atingir
 
 Feito no Proto.io: https://proto.io/<br>
 
-![Alt text](https://github.com/hospitalplus/hospitalplus/blob/master/imagens/letreiro.png "Title")
+![Alt text](https://github.com/hospitalplus/hospitalplus/blob/master/imagens/letreiro.png "logo")
 ![Arquivo PDF do Protótipo Proto.io feito para Hospital+](https://github.com/hospitalplus/hospitalplus/blob/master/arquivos/protoio-Hospital+.pdf "Hospital+")
 
 
 #### 4.1 TABELA DE DADOS DO SISTEMA:
-    a) Esta tabela deve conter todos os atributos do sistema e um mínimo de 10 linhas/registros de dados.
-    b) Esta tabela tem a intenção de simular um relatório com todos os dados que serão armazenados 
-    e deve ser criada antes do modelo conceitual
-    c) Após criada esta tabela não deve ser modificada, pois será comparada com os resultados finais na conclusão do trabalho
+   ![Alt text](https://github.com/hospitalplus/hospitalplus/blob/master/arquivos/dados.xlsx)
     
     
 #### 4.2 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
     a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes? 
     b) Crie uma lista com os 10 principais relatórios que poderão ser obtidos por meio do sistema proposto!
     
->## Marco de Entrega 01 em: (24/03/2018)<br>
-
 ### 5.MODELO CONCEITUAL<br>
-        
+
 ![Alt text](https://github.com/hospitalplus/hospitalplus/blob/master/imagens/hospitalPlusModelo.png)
-    
-    B) NOTACAO UML (Caso esteja fazendo a disciplina de analise)
-    C) QUALIDADE 
-        Garantir que a semântica dos atributos seja clara no esquema
-        Criar o esquema de forma a garantir a redução de informação redundante, possibilidade de valores null, 
-        e tuplas falsas
-    
-        
     
 #### 5.1 Validação do Modelo Conceitual
     [Grupo01]: [Nomes dos que participaram na avaliação]
@@ -104,7 +91,6 @@ Feito no Proto.io: https://proto.io/<br>
     CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
     CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
 
->## Marco de Entrega 01 em: (12/05/2018)<br>
 ### 6	MODELO LÓGICO<br>
         a) inclusão do modelo lógico do banco de dados
         b) verificação de correspondencia com o modelo conceitual 
