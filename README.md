@@ -66,7 +66,7 @@ Feito no Proto.io: https://proto.io/<br>
     
 #### 4.2 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
     1) Especialidade de um médico<br/>
-    2) Horario de atendimento de um medico
+    2) Horario de atendimento de um medico<br/>
     3) Local de atendimento<br/>
     4) Avaliação dos medicos<br/>
     5) Remedios<br/>
