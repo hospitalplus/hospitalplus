@@ -31,7 +31,7 @@ atendimento.
 ### 3.MINI-MUNDO Novo<br>
 
 Quando aberto, o aplicativo será iniciado na aba de Login, onde o usuário poderá logar com seu nome de usuário e senha, ou clicar no botão para cadastro. Caso faça, será redirecionado para outra página para inserir suas informações. Dos Pacientes serão armazenados Nome, Sobrenome, Data de Nascimento, Sexo, Email, Senha, CPF, Convênios e Telefone. Dos Médicos serão armazenados Nome, Sobrenome, Data de Nascimento, Sexo, Email, Senha, CPF, Convênios, Horários e local de atendimento, Registro Profissional e Telefone.
-Pacientes serão atendidos por médicos, como médicos também serão atendidos por médicos. Pacientes poderão marcar consultas com Médicos. Pacientes poderão adicionar Médicos a seus favoritos.<br/>
+Pacientes serão atendidos por médicos. Pacientes poderão marcar consultas com Médicos. Pacientes poderão adicionar Médicos a seus favoritos.<br/>
 <b>(1)</b> O usuário, já logado, será redirecionado para a página inicial, onde serão exibidos perfis de médicos e hospitais com as melhores recomendações, logo abaixo daqueles que pagaram para promover seus perfis. O usuário tem acesso a um menu na parte de baixo, onde pode acessar as páginas:
 <ol>
 	<li>Página Inicial</li>
@@ -95,6 +95,32 @@ Feito no Proto.io: https://proto.io/<br>
     b) justifique!
 
 #### 5.3 DESCRIÇÃO DOS DADOS 
+    PACIENTES: tabela que armazena as informações relativas ao paciente<br>
+    	id_Usuario: campo que armazena o numero de identificação do paciente<br>
+	Nome: campo que armazena o nome do paciente<br>
+	Sobrenome: campo que armazena o sobrenome do paciente<br>
+	DataNascimento: campo que armazena a data de nascimento do paciente<br>
+	Sexo: campo que armazena o sexo do paciente<br>
+	Email: campo que armazena o email do paciente<br>
+	CPF: campo que armazena o número de Cadastro de Pessoa Física para cada paciente<br>
+	Telefone: campo que armazena o telefone do paciente<br>
+	DataInclusao: campo que armazena a data de inclusao do paciente<br>
+	id_Convenios: campo que armazena o id do Convenio proveniente da tabela de convenios<br>
+	id_Alergia: campo que armazena o id da Alergia proveniente da tabela de Alergia<br>
+	id_GrupoSAnguineo: campo que armazena o id do Grupo Sanguioneo da tabela  Grupo Sanguineo<br>
+    
+    ESPECIALISTAS:
+    	id_Especialista: campo que armazena o numero de identificação do especialista<br>
+	Nome: campo que armazena o nome do especialista<br>
+	Sobrenome: campo que armazena o sobrenome do especialista<br>
+	DataNascimento: campo que armazena a data de nascimento do especialista<br>
+	Sexo: campo que armazena o sexo do especialista<br>
+	Email: campo que armazena o email do especialista<br>
+	CPF: campo que armazena o número de Cadastro de Pessoa Física para cada especialista<br>
+	Telefone: campo que armazena o telefone do especialista<br>
+	DataInclusao: campo que armazena a data de inclusao do especialista<br>
+	id_Convenios: campo que armazena o id do Convenio proveniente da tabela de convenios<br>    	
+   	Registro: campo que armazena o registro do especialista Ex.: CRM, CRO<br>
     [objeto]: [descrição do objeto]
     
     EXEMPLO:
