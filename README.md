@@ -79,34 +79,22 @@ Feito no Proto.io: https://proto.io/<br>
 
 ![Alt text](https://github.com/hospitalplus/hospitalplus/blob/master/imagens/Capturar.PNG)
 
-#### 5.1 Validação do Modelo Conceitual
-    [Grupo01]: [Nomes dos que participaram na avaliação]
-    [Grupo02]: [Nomes dos que participaram na avaliação]
-
-#### 5.2 DECISÕES DE PROJETO
-    [atributo]: [descrição da decisão]
+#### 5.1 DESCRIÇÃO DOS DADOS 
+    PACIENTES: tabela que armazena as informações relativas ao paciente<br/>
+    id_Usuario: campo que armazena o numero de identificação do paciente<br/>
+    Nome: campo que armazena o nome do paciente<br/>
+    Sobrenome: campo que armazena o sobrenome do paciente<br/>
+    DataNascimento: campo que armazena a data de nascimento do paciente<br/>
+    Sexo: campo que armazena o sexo do paciente<br/>
+    Email: campo que armazena o email do paciente<br/>
+    CPF: campo que armazena o número de Cadastro de Pessoa Física para cada paciente<br/>
+    Telefone: campo que armazena o telefone do paciente<br/>
+    DataInclusao: campo que armazena a data de inclusao do paciente<br/>
+    id_Convenios: campo que armazena o id do Convenio proveniente da tabela de convenios<br/>
+    id_Alergia: campo que armazena o id da Alergia proveniente da tabela de Alergia<br/>
+    id_GrupoSAnguineo: campo que armazena o id do Grupo Sanguioneo da tabela  Grupo Sanguineo<br/>
     
-    EXEMPLO:
-    a) Campo endereço: em nosso projeto optamos por um campo multivalorado e composto, pois a empresa 
-    pode possuir para cada departamento mais de uma localização... 
-    b) justifique!
-
-#### 5.3 DESCRIÇÃO DOS DADOS 
-    PACIENTES: tabela que armazena as informações relativas ao paciente
-    id_Usuario: campo que armazena o numero de identificação do paciente
-    Nome: campo que armazena o nome do paciente<br>
-    Sobrenome: campo que armazena o sobrenome do paciente<br>
-    DataNascimento: campo que armazena a data de nascimento do paciente<br>
-    Sexo: campo que armazena o sexo do paciente<br>
-    Email: campo que armazena o email do paciente<br>
-    CPF: campo que armazena o número de Cadastro de Pessoa Física para cada paciente<br>
-    Telefone: campo que armazena o telefone do paciente<br>
-    DataInclusao: campo que armazena a data de inclusao do paciente<br>
-    id_Convenios: campo que armazena o id do Convenio proveniente da tabela de convenios<br>
-    id_Alergia: campo que armazena o id da Alergia proveniente da tabela de Alergia<br>
-    id_GrupoSAnguineo: campo que armazena o id do Grupo Sanguioneo da tabela  Grupo Sanguineo<br>
-    
-    ESPECIALISTAS:
+    ESPECIALISTAS: tabela que armazena as informações relativas ao especialista
     	id_Especialista: campo que armazena o numero de identificação do especialista<br>
 	Nome: campo que armazena o nome do especialista<br>
 	Sobrenome: campo que armazena o sobrenome do especialista<br>
