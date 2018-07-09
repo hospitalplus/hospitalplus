@@ -97,14 +97,14 @@ Feito no Proto.io: https://proto.io/<br>
     Nome: campo que armazena o nome do paciente<br>
     Sobrenome: campo que armazena o sobrenome do paciente<br>
     DataNascimento: campo que armazena a data de nascimento do paciente<br>
-	Sexo: campo que armazena o sexo do paciente<br>
-	Email: campo que armazena o email do paciente<br>
-	CPF: campo que armazena o número de Cadastro de Pessoa Física para cada paciente<br>
-	Telefone: campo que armazena o telefone do paciente<br>
-	DataInclusao: campo que armazena a data de inclusao do paciente<br>
-	id_Convenios: campo que armazena o id do Convenio proveniente da tabela de convenios<br>
-	id_Alergia: campo que armazena o id da Alergia proveniente da tabela de Alergia<br>
-	id_GrupoSAnguineo: campo que armazena o id do Grupo Sanguioneo da tabela  Grupo Sanguineo<br>
+    Sexo: campo que armazena o sexo do paciente<br>
+    Email: campo que armazena o email do paciente<br>
+    CPF: campo que armazena o número de Cadastro de Pessoa Física para cada paciente<br>
+    Telefone: campo que armazena o telefone do paciente<br>
+    DataInclusao: campo que armazena a data de inclusao do paciente<br>
+    id_Convenios: campo que armazena o id do Convenio proveniente da tabela de convenios<br>
+    id_Alergia: campo que armazena o id da Alergia proveniente da tabela de Alergia<br>
+    id_GrupoSAnguineo: campo que armazena o id do Grupo Sanguioneo da tabela  Grupo Sanguineo<br>
     
     ESPECIALISTAS:
     	id_Especialista: campo que armazena o numero de identificação do especialista<br>
