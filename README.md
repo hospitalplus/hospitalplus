@@ -22,9 +22,6 @@ A solução que pensamos para esse problema foi um sistema
 onde o usuário pode selecionar a área que precisa ser atendido, em caso
 de marcar consultas, já será mostrado todos os horários disponíveis do
 hospital e o usuário pode marcar sua consulta por ali mesmo.
-No caso de PS, o usuário pode colocar todas as suas informações e
-sintomas pelo sistema e quando chegar lá só precisa aguardar o
-atendimento.
 
  
 
@@ -80,8 +77,8 @@ Feito no Proto.io: https://proto.io/<br>
     
 ### 5.MODELO CONCEITUAL<br>
 
-![Alt text](https://github.com/hospitalplus/hospitalplus/blob/master/imagens/hospitalPlus.png)
-    
+![Alt text](https://github.com/hospitalplus/hospitalplus/blob/master/imagens/Capturar.PNG)
+
 #### 5.1 Validação do Modelo Conceitual
     [Grupo01]: [Nomes dos que participaram na avaliação]
     [Grupo02]: [Nomes dos que participaram na avaliação]
@@ -95,11 +92,11 @@ Feito no Proto.io: https://proto.io/<br>
     b) justifique!
 
 #### 5.3 DESCRIÇÃO DOS DADOS 
-    PACIENTES: tabela que armazena as informações relativas ao paciente<br>
-    	id_Usuario: campo que armazena o numero de identificação do paciente<br>
-	Nome: campo que armazena o nome do paciente<br>
-	Sobrenome: campo que armazena o sobrenome do paciente<br>
-	DataNascimento: campo que armazena a data de nascimento do paciente<br>
+    PACIENTES: tabela que armazena as informações relativas ao paciente
+    id_Usuario: campo que armazena o numero de identificação do paciente
+    Nome: campo que armazena o nome do paciente<br>
+    Sobrenome: campo que armazena o sobrenome do paciente<br>
+    DataNascimento: campo que armazena a data de nascimento do paciente<br>
 	Sexo: campo que armazena o sexo do paciente<br>
 	Email: campo que armazena o email do paciente<br>
 	CPF: campo que armazena o número de Cadastro de Pessoa Física para cada paciente<br>
