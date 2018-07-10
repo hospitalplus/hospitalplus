@@ -155,7 +155,7 @@ Feito no Proto.io: https://proto.io/<br>
     locais: campo que armazena os locais disponiveis
 
 ### 6	MODELO LÓGICO<br>
-	![Alt text](https://github.com/hospitalplus/hospitalplus/blob/master/arquivos/hospitalplusmodelologico.mwb)
+![Alt text](https://github.com/hospitalplus/hospitalplus/blob/master/arquivos/hospitalplusmodelologico.mwb)
 
 ### 7	MODELO FÍSICO<br>
 	![Alt text](https://github.com/hospitalplus/hospitalplus/blob/master/arquivos/sqlhospitalplus.sql)    
