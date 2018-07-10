@@ -77,10 +77,10 @@ Feito no Proto.io: https://proto.io/<br>
     
 ### 5.MODELO CONCEITUAL<br>
 
-![Alt text](https://github.com/hospitalplus/hospitalplus/blob/master/imagens/)
+![Alt text](https://github.com/hospitalplus/hospitalplus/blob/master/imagens/Capturar.PNG)
 
 #### 5.1 DESCRIÇÃO DOS DADOS 
-    <b>PACIENTES:</b> tabela que armazena as informações relativas ao paciente
+    PACIENTES: tabela que armazena as informações relativas ao paciente
     id_Usuario: campo que armazena o numero de identificação do paciente
     Nome: campo que armazena o nome do paciente
     Sobrenome: campo que armazena o sobrenome do paciente
@@ -94,7 +94,7 @@ Feito no Proto.io: https://proto.io/<br>
     id_Alergia: campo que armazena o id da Alergia proveniente da tabela de Alergia
     id_GrupoSAnguineo: campo que armazena o id do Grupo Sanguioneo da tabela  Grupo Sanguineo
     
-    <b>ESPECIALISTAS:</b> tabela que armazena as informações relativas ao especialista
+    ESPECIALISTAS: tabela que armazena as informações relativas ao especialista
     id_Especialista: campo que armazena o numero de identificação do especialista
 	Nome: campo que armazena o nome do especialista
 	Sobrenome: campo que armazena o sobrenome do especialista
@@ -107,17 +107,52 @@ Feito no Proto.io: https://proto.io/<br>
 	id_Convenios: campo que armazena o id do Convenio proveniente da tabela de convenios    	
    	Registro: campo que armazena o registro do especialista Ex.: CRM, CRO
     
-    <b>ALERGIAS:</b> tabela que armazena uma lista de alergias
+    ALERGIAS: tabela que armazena uma lista de alergias
     tipoAlergia: alergias
-    <b>GRUPO SANGUINEO:</b> tabela que armazena os tipos saguineos
-    <b></b>
-    <b></b>
+    GRUPO SANGUINEO: tabela que armazena os tipos saguineos
+    ORIENTACOES: tabela que contem as orientacoes do tratamento inseridas pelo médico
     
-    [objeto]: [descrição do objeto]
+    TRATAMENTOS: tabela que contem os dados do tratamento de um medico para um paciente
+    idTratamento: identifica o tratamento
+    Remedio: campo que armazena o remdio a ser tomado
+    Dosagem: campo que contem a dosagem do remedio
+    Frequencia: campo que contem a frequencia do tratamento em horas
+    Periodo: campo que contem a duracao em dias do tratamento
+    horaInicio: campo que contem a hora de inicio do tratamento para a contagem do perido
     
-    EXEMPLO:
-    CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
-    CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
+    CONSULTAS: tabela que contem os dados da consulta
+    idConsulta: campo que contem a identificacao da consulta
+    horaConsulta: campo que contem a hora da consulta
+    localConsulta: campo que contem o local da consulta
+    diaConsulta: campo que contem a data da consulta
+    idMedico: Campo que contem o id do medico que irá realizar a consulta
+    idPaciente: Campo que contem o id do paciente que da consulta
+    idTratamento:campo que contem o id do tratamento passado com a consulta
+    
+    CONVENIOS: tabela que contem os convenios
+    convenios: convenios médicos
+    
+    ESPECIALIDADE: tabela que armazena as especilidades atendidas
+    especialidade: 
+    
+    AVALIACAOMEDICO: tabela as avaliacoes
+    avaliacao: campo que varia de 1 a 5 armazenado no medico
+    
+    AGENDA: tabela que armazena a agenda do medico
+    idHorario: campo que armazena o id do horario
+    idEspecialista: campo que armazena o id do especialista que pertence aquela agenda
+    
+    HORARIO: tabela que armazena os horarios de cada agenda
+    idHorario: campo que contém identificador do hoario
+    HorIni: campo que contém a hora de inicio de atendimento
+    HorFim: campo que armazena a hora de término do atendimento
+    Dia: armazena o dia da agenda vigente
+    
+    LOCALATENDIMENTO: tabela que armazena o local do atendimento
+    locAtend: campo que armazena o id do local de atendimento
+    
+    LOCAL: tabela que armazena os local
+    locais: campo que armazena os locais disponiveis
 
 ### 6	MODELO LÓGICO<br>
         a) inclusão do modelo lógico do banco de dados
