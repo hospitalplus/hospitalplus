@@ -62,8 +62,8 @@ Feito no Proto.io: https://proto.io/<br>
     
     
 #### 4.2 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
-    
-    1) Especialidade de um médico
+
+1) Especialidade de um médico
     2) Horario de atendimento de um medico<br/>
     3) Local de atendimento<br/>
     4) Avaliação dos medicos<br/>
@@ -155,10 +155,10 @@ Feito no Proto.io: https://proto.io/<br>
     locais: campo que armazena os locais disponiveis
 
 ### 6	MODELO LÓGICO<br>
-![Alt text](https://github.com/hospitalplus/hospitalplus/blob/master/arquivos/hospitalplusmodelologico.mwb)
+![Clique e acesse o modelo logico](https://github.com/hospitalplus/hospitalplus/blob/master/arquivos/hospitalplusmodelologico.mwb)
 
 ### 7	MODELO FÍSICO<br>
-	![Alt text](https://github.com/hospitalplus/hospitalplus/blob/master/arquivos/sqlhospitalplus.sql)    
+![Clique e acesse o modelo físico](https://github.com/hospitalplus/hospitalplus/blob/master/arquivos/sqlhospitalplus.sql)    
         
 ### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 #### 8.1 DETALHAMENTO DAS INFORMAÇÕES
