@@ -155,10 +155,10 @@ Feito no Proto.io: https://proto.io/<br>
     locais: campo que armazena os locais disponiveis
 
 ### 6	MODELO LÓGICO<br>
-	[a link](https://github.com/hospitalplus/hospitalplus/blob/master/arquivos/hospitalplusmodelologico.mwb)
+	![Acesse o modelo logico e faca dowload](https://github.com/hospitalplus/hospitalplus/blob/master/arquivos/hospitalplusmodelologico.mwb)
 
 ### 7	MODELO FÍSICO<br>
-	[a link](https://github.com/hospitalplus/hospitalplus/blob/master/arquivos/sqlhospitalplus.sql)    
+	![Acesse o modelo fisico e faca dowload do sql](https://github.com/hospitalplus/hospitalplus/blob/master/arquivos/sqlhospitalplus.sql)    
         
 ### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 #### 8.1 DETALHAMENTO DAS INFORMAÇÕES
