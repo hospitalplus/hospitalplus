@@ -77,35 +77,42 @@ Feito no Proto.io: https://proto.io/<br>
     
 ### 5.MODELO CONCEITUAL<br>
 
-![Alt text](https://github.com/hospitalplus/hospitalplus/blob/master/imagens/Capturar.PNG)
+![Alt text](https://github.com/hospitalplus/hospitalplus/blob/master/imagens/)
 
 #### 5.1 DESCRIÇÃO DOS DADOS 
-    PACIENTES: tabela que armazena as informações relativas ao paciente<br/>
-    id_Usuario: campo que armazena o numero de identificação do paciente<br/>
-    Nome: campo que armazena o nome do paciente<br/>
-    Sobrenome: campo que armazena o sobrenome do paciente<br/>
-    DataNascimento: campo que armazena a data de nascimento do paciente<br/>
-    Sexo: campo que armazena o sexo do paciente<br/>
-    Email: campo que armazena o email do paciente<br/>
-    CPF: campo que armazena o número de Cadastro de Pessoa Física para cada paciente<br/>
-    Telefone: campo que armazena o telefone do paciente<br/>
-    DataInclusao: campo que armazena a data de inclusao do paciente<br/>
-    id_Convenios: campo que armazena o id do Convenio proveniente da tabela de convenios<br/>
-    id_Alergia: campo que armazena o id da Alergia proveniente da tabela de Alergia<br/>
-    id_GrupoSAnguineo: campo que armazena o id do Grupo Sanguioneo da tabela  Grupo Sanguineo<br/>
+    <b>PACIENTES:</b> tabela que armazena as informações relativas ao paciente
+    id_Usuario: campo que armazena o numero de identificação do paciente
+    Nome: campo que armazena o nome do paciente
+    Sobrenome: campo que armazena o sobrenome do paciente
+    DataNascimento: campo que armazena a data de nascimento do paciente
+    Sexo: campo que armazena o sexo do paciente
+    Email: campo que armazena o email do paciente
+    CPF: campo que armazena o número de Cadastro de Pessoa Física para cada paciente
+    Telefone: campo que armazena o telefone do paciente
+    DataInclusao: campo que armazena a data de inclusao do paciente
+    id_Convenios: campo que armazena o id do Convenio proveniente da tabela de convenios
+    id_Alergia: campo que armazena o id da Alergia proveniente da tabela de Alergia
+    id_GrupoSAnguineo: campo que armazena o id do Grupo Sanguioneo da tabela  Grupo Sanguineo
     
-    ESPECIALISTAS: tabela que armazena as informações relativas ao especialista
-    	id_Especialista: campo que armazena o numero de identificação do especialista<br>
-	Nome: campo que armazena o nome do especialista<br>
-	Sobrenome: campo que armazena o sobrenome do especialista<br>
-	DataNascimento: campo que armazena a data de nascimento do especialista<br>
-	Sexo: campo que armazena o sexo do especialista<br>
-	Email: campo que armazena o email do especialista<br>
-	CPF: campo que armazena o número de Cadastro de Pessoa Física para cada especialista<br>
-	Telefone: campo que armazena o telefone do especialista<br>
-	DataInclusao: campo que armazena a data de inclusao do especialista<br>
-	id_Convenios: campo que armazena o id do Convenio proveniente da tabela de convenios<br>    	
-   	Registro: campo que armazena o registro do especialista Ex.: CRM, CRO<br>
+    <b>ESPECIALISTAS:</b> tabela que armazena as informações relativas ao especialista
+    id_Especialista: campo que armazena o numero de identificação do especialista
+	Nome: campo que armazena o nome do especialista
+	Sobrenome: campo que armazena o sobrenome do especialista
+	DataNascimento: campo que armazena a data de nascimento do especialista
+	Sexo: campo que armazena o sexo do especialista
+	Email: campo que armazena o email do especialista
+	CPF: campo que armazena o número de Cadastro de Pessoa Física para cada especialista
+	Telefone: campo que armazena o telefone do especialista
+	DataInclusao: campo que armazena a data de inclusao do especialista
+	id_Convenios: campo que armazena o id do Convenio proveniente da tabela de convenios    	
+   	Registro: campo que armazena o registro do especialista Ex.: CRM, CRO
+    
+    <b>ALERGIAS:</b> tabela que armazena uma lista de alergias
+    tipoAlergia: alergias
+    <b>GRUPO SANGUINEO:</b> tabela que armazena os tipos saguineos
+    <b></b>
+    <b></b>
+    
     [objeto]: [descrição do objeto]
     
     EXEMPLO:
