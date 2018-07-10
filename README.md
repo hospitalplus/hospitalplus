@@ -1,4 +1,4 @@
-# TRABALHO 01:  Hospital+
+# TRABALHO 01:  Hospital+ ![Alt text](https://github.com/hospitalplus/hospitalplus/blob/master/hospitalplusicone.png)
 Trabalho desenvolvido durante a disciplina de Banco de Dados do Integrado
 Hospital+: hospitalplus2018@gmail.com<br>
 # Sumário
