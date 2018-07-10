@@ -123,7 +123,7 @@ Feito no Proto.io: https://proto.io/<br>
     CONSULTAS: tabela que contem os dados da consulta
     idConsulta: campo que contem a identificacao da consulta
     horaConsulta: campo que contem a hora da consulta
-    localConsulta: campo que contem o local da consulta
+    idLocal: campo que contem o local da consulta
     diaConsulta: campo que contem a data da consulta
     idMedico: Campo que contem o id do medico que irá realizar a consulta
     idPaciente: Campo que contem o id do paciente que da consulta
