@@ -77,7 +77,7 @@ Feito no Proto.io: https://proto.io/<br>
     
 ### 5.MODELO CONCEITUAL<br>
 
-![Alt text](https://github.com/hospitalplus/hospitalplus/blob/master/imagens/Capturar.PNG)
+![Alt text](https://github.com/hospitalplus/hospitalplus/blob/master/imagens/brmodelohospitalplus.PNG)
 
 #### 5.1 DESCRIÇÃO DOS DADOS 
     PACIENTES: tabela que armazena as informações relativas ao paciente
